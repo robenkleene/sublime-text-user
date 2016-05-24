@@ -5,6 +5,9 @@
 	],
 	"installed_packages":
 	[
-		"JSHint Gutter"
+		"GitGutter",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-jshint"
 	]
 }
