@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"GitGutter",
+		"Origami",
 		"Package Control",
 		"SublimeLinter",
 		"SublimeLinter-jshint"
